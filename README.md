@@ -44,4 +44,4 @@ When the user access its account details, the app will search for the details pr
 
 We implemented the AESUtils class in order to encrypt and decrypt Strings in our project.
 
-The url of the API was encrypted and stored in the method getUrl() that return the decrypted url whenever it is call.
+The url of the API is encrypt and store in the method getUrl() that return the decrypted url whenever it is call. 
